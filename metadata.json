@@ -1,0 +1,5 @@
+{
+  "name": "Split Assistant",
+  "description": "A smart bill splitting app that parses receipts and lets you assign costs using natural language chat.",
+  "requestFramePermissions": []
+}
